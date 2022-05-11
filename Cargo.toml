@@ -1,0 +1,9 @@
+[package]
+name = "tracing-syslog"
+version = "0.0.0"
+authors = ["Denis Kayshev <topenkoff@gmail.com>"]
+edition = "2018"
+description = "Syslog integration for tracing."
+license = "MIT"
+
+[dependencies]
